@@ -1,0 +1,3 @@
+URL of the page: https://sentinel-live.co.uk/settings/inventoryDevice
+Device added
+Add/Delete Device Passed and Captured

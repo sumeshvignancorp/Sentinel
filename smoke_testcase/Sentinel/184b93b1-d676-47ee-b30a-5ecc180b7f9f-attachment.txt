@@ -1,0 +1,6 @@
+Title of the page: Sentinel Live
+URL of the page: https://sentinel-live.co.uk/reports/summary
+Xlsx file downloaded
+Xlsx file sent to Email
+Summary_Report Passed and Captured
+Daily summary show reported generated
