@@ -26,7 +26,7 @@ def test_route_report():
     time.sleep(5)
     driver.find_element("xpath", "(//div[@role='combobox'])[1]").click()
     time.sleep(2)
-    driver.find_element("xpath", "//li[text()='This Week']").click()
+    driver.find_element("xpath", "//li[text()='Today']").click()
     driver.find_element("xpath", "(//input[@role='combobox'])").click()
     time.sleep(3)
     driver.find_element("xpath", "(//input[@role='combobox'])").send_keys("Bengaluru")

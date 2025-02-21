@@ -26,7 +26,7 @@ def test_summary_report():
     time.sleep(5)
     driver.find_element("xpath", "(//div[@role='combobox'])[2]").click()
     time.sleep(2)
-    driver.find_element("xpath", "//li[text()='This Week']").click()
+    driver.find_element("xpath", "//li[text()='Today']").click()
     # print("Title :", driver.title)
     driver.find_element("xpath", "(//input[@role='combobox'])").click()
     time.sleep(3)
