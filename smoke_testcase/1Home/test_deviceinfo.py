@@ -19,7 +19,7 @@ def test_device():
     driver.implicitly_wait(10)
     driver.maximize_window()
     driver.get("https://sentinel-live.co.uk")
-    time.sleep(20)
+    time.sleep(18)
     driver.get_screenshot_as_png()
     driver.find_element(By.XPATH, "(//div[@tabindex='0'])[10]").click()
     time.sleep(2)
